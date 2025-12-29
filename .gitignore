@@ -1,0 +1,8 @@
+data/
+Task01_BrainTumour/
+*.nii
+*.nii.gz
+
+__pycache__/
+.env
+.ipynb_checkpoints/
