@@ -14,8 +14,8 @@ Each training sample consists of a 3D MRI volume with four modalities:
 Ground-truth labels provide voxel-level tumor annotations.
 
 ### Download
-Download the dataset from:
-http://medicaldecathlon.com/downloads/Task01_BrainTumour.tar
+Download the dataset Task01_BrainTumour from:
+http://medicaldecathlon.com/dataaws/
 
 Extract it into:
 data/BrainTumor_data/
